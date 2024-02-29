@@ -2,7 +2,7 @@ repo_name: nabilbk/ionic-apps
 report_id: 4d7eb4f07018922431903873228f591e
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T11:46:19+00:00'
+timestamp: '2024-02-29T19:29:28+00:00'
 requested_by: nabilbk
 provider: github
 branch: master
@@ -164,7 +164,7 @@ tools:
   last_updated_by: nabil
   last_updated_on: 2019-04-01 17:50:02.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -407,7 +407,7 @@ tools:
   last_updated_by: nabil
   last_updated_on: 2019-04-01 17:50:02.000000000 Z
 - name: ServiceStack
-  description: 'A configuration free, code-first, light-weight framework '
+  description: A configuration free, code-first, light-weight framework
   website_url: https://servicestack.net/
   open_source: false
   hosted_saas: false
@@ -509,7 +509,7 @@ tools:
   last_updated_by: nabil
   last_updated_on: 2019-04-01 17:50:02.000000000 Z
 - name: Mentat
-  description: " persistent, relational store by Mozilla"
+  description: persistent, relational store by Mozilla
   website_url: https://mozilla.github.io/mentat
   license: Apache-2.0
   open_source: true
@@ -624,8 +624,8 @@ tools:
   last_updated_by: nabil
   last_updated_on: 2019-04-01 17:50:02.000000000 Z
 - name: BrowserStack
-  description: BrowserStack is a software testing platform for developers to comprehensively
-    test websites and mobile applications
+  description: BrowserStack is the leading test platform built for developers &amp;
+    QAs to expand test coverage, scale, &amp; optimize testing
   website_url: http://www.browserstack.com
   open_source: false
   hosted_saas: true
@@ -789,8 +789,8 @@ tools:
   last_updated_by: nabil
   last_updated_on: 2019-04-01 17:50:02.000000000 Z
 - name: EditorConfig
-  description: 'A file format and collection of text editor plugins for maintaining
-    consistent coding styles '
+  description: A file format and collection of text editor plugins for maintaining
+    consistent coding styles
   website_url: http://editorconfig.org
   open_source: false
   hosted_saas: false
@@ -999,7 +999,7 @@ tools:
   last_updated_by: nabil
   last_updated_on: 2019-04-01 17:50:02.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   license: MIT
   open_source: true
@@ -1099,7 +1099,7 @@ tools:
   last_updated_by: nabil
   last_updated_on: 2019-04-01 17:50:02.000000000 Z
 - name: Split
-  description: 'Split provides a unified solution for feature flags and experimentation '
+  description: Split provides a unified solution for feature flags and experimentation
   website_url: http://www.split.io
   open_source: false
   hosted_saas: true
@@ -1124,7 +1124,7 @@ tools:
   last_updated_by: nabil
   last_updated_on: 2019-04-01 17:50:02.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   license: MIT
   open_source: true
@@ -1618,7 +1618,7 @@ tools:
   last_updated_by: nabil
   last_updated_on: 2019-04-01 17:50:02.000000000 Z
 - name: ZAP
-  description: 'A free, open-source penetration testing tool '
+  description: A free, open-source penetration testing tool
   website_url: https://www.zaproxy.org/
   open_source: false
   hosted_saas: false
